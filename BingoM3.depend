@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1436226542 source:c:\users\iago\desktop\bingom3\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"menu.h"
+	"desenvolvedor.h"
+	"bingo.h"
+
+1436146234 c:\users\iago\desktop\bingom3\menu.h
+	"bingo.h"
+	"desenvolvedor.h"
+
+1436228728 c:\users\iago\desktop\bingom3\bingo.h
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"menu.h"
+
+1436227036 c:\users\iago\desktop\bingom3\desenvolvedor.h
+	<iostream>
+	<stdlib.h>
+
+1436232057 source:c:\users\iago\desktop\bingom3meu\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"menu.h"
+	"desenvolvedor.h"
+	"bingo.h"
+
+1436230404 c:\users\iago\desktop\bingom3meu\menu.h
+	"bingo.h"
+	"desenvolvedor.h"
+
+1436299488 c:\users\iago\desktop\bingom3meu\bingo.h
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"menu.h"
+	<fstream>
+
+1436227036 c:\users\iago\desktop\bingom3meu\desenvolvedor.h
+	<iostream>
+	<stdlib.h>
+
+1570485250 source:c:\users\5669723.univali\desktop\bingom33\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"menu.h"
+	"desenvolvedor.h"
+	"bingo.h"
+
+1436230404 c:\users\5669723.univali\desktop\bingom33\menu.h
+	"bingo.h"
+	"desenvolvedor.h"
+
+1436301322 c:\users\5669723.univali\desktop\bingom33\bingo.h
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"menu.h"
+	<fstream>
+
+1436227036 c:\users\5669723.univali\desktop\bingom33\desenvolvedor.h
+	<iostream>
+	<stdlib.h>
+
+1570485250 source:c:\users\5669723.univali\desktop\bingom33 - copia\main.cpp
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"menu.h"
+	"desenvolvedor.h"
+	"bingo.h"
+
+1436230404 c:\users\5669723.univali\desktop\bingom33 - copia\menu.h
+	"bingo.h"
+	"desenvolvedor.h"
+
+1436301322 c:\users\5669723.univali\desktop\bingom33 - copia\bingo.h
+	<iostream>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"menu.h"
+	<fstream>
+
+1436227036 c:\users\5669723.univali\desktop\bingom33 - copia\desenvolvedor.h
+	<iostream>
+	<stdlib.h>
+
